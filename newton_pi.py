@@ -2,7 +2,7 @@
 
 #Computes Pi using Newton's method as described here: https://www.youtube.com/watch?v=gMlf1ELvRzc
 
-#Computes Pi using Binominal Theorem by computing Int[Sqrt(1-x^2)dx,{x,0,1/2}]==Pi/12+Sqrt(3)/8
+#Computes Pi using Binomial Theorem by computing Int[Sqrt(1-x^2)dx,{x,0,1/2}]==Pi/12+Sqrt(3)/8
 
 #[Wolfram Alpha](https://www.wolframalpha.com/input/?i=Int%5BSqrt%281-x%5E2%29dx%2C%7Bx%2C0%2C1%2F2%7D%5D-sqrt%283%29%2F8-pi%2F12)
 
