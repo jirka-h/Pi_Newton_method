@@ -1,3 +1,5 @@
+[![Build status](https://travis-ci.org/jirka-h/Pi_Newton_method.svg?branch=main)
+
 # Pi_Newton_method
 Computes Pi using Newton's method as described [here](https://www.youtube.com/watch?v=gMlf1ELvRzc)
 
